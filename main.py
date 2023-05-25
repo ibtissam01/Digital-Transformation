@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+st.set_option('deprecation.showPyplotGlobalUse', False)
 # Charger les données
 data = pd.read_csv("merged_data.csv")
 
