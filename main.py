@@ -84,7 +84,6 @@ st.pyplot()
 
 
 # Convertir la colonne de dates en nombres réels
-data['DATE'] = pd.to_datetime(data['DATE'])
 data['DATE'] = data['DATE'].apply(lambda x: x.to_julian_date())
 
 
