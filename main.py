@@ -3,6 +3,11 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error, r2_score
+import matplotlib.pyplot as plt
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
 # Charger les données
 data = pd.read_csv("merged_data.csv")
@@ -77,4 +82,46 @@ categories = data.groupby("CATEGORY")["revenue"].sum()
 plt.pie(categories, labels=categories.index)
 st.pyplot()
 
+
+# Charger les données
+@st.cache
+
+
+# Convertir les dates en nombres réels
+data['DATE'] = pd.to_datetime(data['DATE'])
+data['DATE'] = data['DATE'].map(pd.Timestamp.to_julian_date)
+
+# Diviser les données en ensembles d'entraînement et de test
+X_train, X_test, y_train, y_test = train_test_split(data['DATE'], data['revenue'], test_size=0.2, random_state=0)
+
+# Créer le modèle de régression linéaire
+regressor = LinearRegression()
+
+# Entraîner le modèle
+X_train = X_train.values.reshape(-1, 1)
+y_train = y_train.values.reshape(-1, 1)
+regressor.fit(X_train, y_train)
+
+# Prédire les ventes pour l'ensemble de test
+X_test = X_test.values.reshape(--1, 1)
+y_pred = regressor.predict(X_test)
+
+# Évaluer les performances du modèle
+mse = mean_squared_error(y_test, y_pred)
+r2 = r2_score(y_test, y_pred)
+
+# Afficher les performances du modèle
+st.write('Performance du modèle')
+st.write('MSE :', mse)
+st.write('R2 score :', r2)
+
+# Visualiser les résultats
+st.subheader('Visualiser les résultats')
+plt.figure(figsize=(10,6))
+plt.scatter(X_test, y_test, color='blue')
+plt.plot(X_test, y_pred, color='red', linewidth=2)
+plt.xlabel('Date (jour julien)')
+plt.ylabel('Revenu')
+plt.title('Régression linéaire pour prédire les ventes en fonction de la date')
+st.pyplot()
 
