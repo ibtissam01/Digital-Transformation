@@ -83,12 +83,10 @@ plt.pie(categories, labels=categories.index)
 st.pyplot()
 
 
-# Charger les données
-@st.cache
+# Convertir la colonne de dates en nombres réels
+data['DATE'] = pd.to_datetime(data['DATE'])
+data['DATE'] = data['DATE'].apply(lambda x: x.to_julian_date())
 
-
-# Convertir les dates en nombres réels
-data['DATE'] = data['DATE'].map(pd.Timestamp.to_julian_date)
 
 # Diviser les données en ensembles d'entraînement et de test
 X_train, X_test, y_train, y_test = train_test_split(data['DATE'], data['revenue'], test_size=0.2, random_state=0)
