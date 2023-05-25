@@ -81,3 +81,4 @@ st.header("Diagramme circulaire des catégories de produits")
 categories = data.groupby("CATEGORY")["revenue"].sum()
 plt.pie(categories, labels=categories.index)
 st.pyplot()
+
