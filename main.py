@@ -88,7 +88,6 @@ st.pyplot()
 
 
 # Convertir les dates en nombres réels
-data['DATE'] = pd.to_datetime(data['DATE'])
 data['DATE'] = data['DATE'].map(pd.Timestamp.to_julian_date)
 
 # Diviser les données en ensembles d'entraînement et de test
