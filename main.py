@@ -19,7 +19,7 @@ st.write(data.info())
 # Identifier les valeurs aberrantes
 st.subheader('Identifier les valeurs aberrantes')
 plt.figure(figsize=(10,6))
-sns.boxplot(x='Quantité', data=data)
+sns.boxplot(x='QUANTITY', data=data)
 st.pyplot()
 
 # Traiter les valeurs manquantes
@@ -34,16 +34,16 @@ st.write(data.describe())
 
 # Identifier les relations entre les variables
 st.subheader('Identifier les relations entre les variables')
-sns.pairplot(data[['Quantité', 'Buying Price', 'Selling Price', 'revenue']])
+sns.pairplot(data[['QUANTITY','SELLING PRICE','revenue']])
 st.pyplot()
 
 st.write('Corrélation entre les variables')
-st.write(data[['Quantité', 'Buying Price', 'Selling Price', 'revenue']].corr())
+st.write(data[['QUANTITY','SELLING PRICE','revenue']].corr())
 
 # Visualiser les distributions devariables
 st.subheader('Visualiser les distributions de variables')
 plt.figure(figsize=(10,6))
-sns.histplot(data['Selling Price'], bins=20)
+sns.histplot(data['SELLING PRICE'], bins=20)
 st.pyplot()
 
 # Identifier les tendances temporelles
