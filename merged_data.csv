@@ -1,0 +1,528 @@
+DATE,PRODUCT ID,QUANTITY,SALE TYPE,PAYMENT MODE,DISCOUNT %,PRODUCT,CATEGORY,UOM,BUYING PRIZE,SELLING PRICE,revenue
+1/1/2021,P0024,9,Wholesaler,Online,0.0%,Product24,Category03,Ft,144,156.96,1412.64
+3/25/2021,P0024,14,Online,Cash,0.0%,Product24,Category03,Ft,144,156.96,2197.44
+7/22/2021,P0024,14,Online,Cash,0.0%,Product24,Category03,Ft,144,156.96,2197.44
+9/1/2021,P0024,1,Wholesaler,Cash,0.0%,Product24,Category03,Ft,144,156.96,156.96
+10/22/2021,P0024,13,Online,Cash,0.0%,Product24,Category03,Ft,144,156.96,2040.48
+10/23/2022,P0024,14,Online,Cash,0.0%,Product24,Category03,Ft,144,156.96,2197.44
+1/2/2021,P0038,15,Online,Cash,0.0%,Product38,Category05,Kg,72,79.92,1198.8
+3/25/2021,P0038,2,Direct Sales,Online,0.0%,Product38,Category05,Kg,72,79.92,159.84
+3/30/2021,P0038,1,Online,Cash,0.0%,Product38,Category05,Kg,72,79.92,79.92
+4/18/2021,P0038,9,Wholesaler,Online,0.0%,Product38,Category05,Kg,72,79.92,719.28
+7/20/2021,P0038,11,Online,Online,0.0%,Product38,Category05,Kg,72,79.92,879.12
+10/9/2021,P0038,5,Direct Sales,Cash,0.0%,Product38,Category05,Kg,72,79.92,399.6
+10/29/2021,P0038,14,Online,Online,0.0%,Product38,Category05,Kg,72,79.92,1118.88
+5/18/2022,P0038,8,Wholesaler,Online,0.0%,Product38,Category05,Kg,72,79.92,639.36
+9/10/2022,P0038,4,Direct Sales,Cash,0.0%,Product38,Category05,Kg,72,79.92,319.68
+9/27/2022,P0038,3,Wholesaler,Cash,0.0%,Product38,Category05,Kg,72,79.92,239.76
+10/9/2022,P0038,14,Online,Online,0.0%,Product38,Category05,Kg,72,79.92,1118.88
+10/31/2022,P0038,8,Direct Sales,Online,0.0%,Product38,Category05,Kg,72,79.92,639.36
+12/7/2022,P0038,12,Direct Sales,Cash,0.0%,Product38,Category05,Kg,72,79.92,959.04
+12/7/2022,P0038,5,Direct Sales,Cash,0.0%,Product38,Category05,Kg,72,79.92,399.6
+1/2/2021,P0013,6,Direct Sales,Cash,0.0%,Product13,Category02,Kg,112,122.08,732.48
+2/22/2021,P0013,5,Online,Cash,0.0%,Product13,Category02,Kg,112,122.08,610.4
+5/30/2021,P0013,6,Online,Cash,0.0%,Product13,Category02,Kg,112,122.08,732.48
+8/30/2021,P0013,13,Direct Sales,Online,0.0%,Product13,Category02,Kg,112,122.08,1587.04
+11/3/2021,P0013,12,Direct Sales,Cash,0.0%,Product13,Category02,Kg,112,122.08,1464.96
+12/7/2021,P0013,8,Direct Sales,Online,0.0%,Product13,Category02,Kg,112,122.08,976.64
+2/23/2022,P0013,6,Online,Online,0.0%,Product13,Category02,Kg,112,122.08,732.48
+5/2/2022,P0013,4,Online,Cash,0.0%,Product13,Category02,Kg,112,122.08,488.32
+12/11/2022,P0013,9,Wholesaler,Online,0.0%,Product13,Category02,Kg,112,122.08,1098.72
+1/3/2021,P0004,5,Direct Sales,Online,0.0%,Product04,Category01,Lt,44,48.84,244.20000000000002
+1/21/2021,P0004,15,Wholesaler,Cash,0.0%,Product04,Category01,Lt,44,48.84,732.6
+1/28/2021,P0004,10,Online,Cash,0.0%,Product04,Category01,Lt,44,48.84,488.40000000000003
+6/8/2021,P0004,11,Wholesaler,Cash,0.0%,Product04,Category01,Lt,44,48.84,537.24
+7/8/2021,P0004,10,Direct Sales,Online,0.0%,Product04,Category01,Lt,44,48.84,488.40000000000003
+10/26/2021,P0004,6,Wholesaler,Cash,0.0%,Product04,Category01,Lt,44,48.84,293.04
+12/5/2021,P0004,15,Direct Sales,Cash,0.0%,Product04,Category01,Lt,44,48.84,732.6
+2/8/2022,P0004,3,Online,Cash,0.0%,Product04,Category01,Lt,44,48.84,146.52
+3/6/2022,P0004,2,Direct Sales,Cash,0.0%,Product04,Category01,Lt,44,48.84,97.68
+3/9/2022,P0004,11,Online,Cash,0.0%,Product04,Category01,Lt,44,48.84,537.24
+4/25/2022,P0004,9,Direct Sales,Cash,0.0%,Product04,Category01,Lt,44,48.84,439.56000000000006
+5/28/2022,P0004,12,Online,Online,0.0%,Product04,Category01,Lt,44,48.84,586.08
+6/23/2022,P0004,8,Direct Sales,Online,0.0%,Product04,Category01,Lt,44,48.84,390.72
+7/15/2022,P0004,2,Online,Online,0.0%,Product04,Category01,Lt,44,48.84,97.68
+11/25/2022,P0004,5,Direct Sales,Cash,0.0%,Product04,Category01,Lt,44,48.84,244.20000000000002
+1/4/2021,P0035,12,Online,Online,0.0%,Product35,Category04,No.,5,6.7,80.4
+1/19/2021,P0035,6,Direct Sales,Cash,0.0%,Product35,Category04,No.,5,6.7,40.2
+1/25/2021,P0035,7,Direct Sales,Online,0.0%,Product35,Category04,No.,5,6.7,46.9
+2/6/2021,P0035,1,Direct Sales,Cash,0.0%,Product35,Category04,No.,5,6.7,6.7
+5/12/2021,P0035,15,Direct Sales,Online,0.0%,Product35,Category04,No.,5,6.7,100.5
+6/5/2021,P0035,10,Direct Sales,Online,0.0%,Product35,Category04,No.,5,6.7,67.0
+6/28/2021,P0035,7,Online,Online,0.0%,Product35,Category04,No.,5,6.7,46.9
+8/31/2021,P0035,11,Direct Sales,Online,0.0%,Product35,Category04,No.,5,6.7,73.7
+10/6/2021,P0035,1,Direct Sales,Online,0.0%,Product35,Category04,No.,5,6.7,6.7
+10/10/2021,P0035,14,Direct Sales,Cash,0.0%,Product35,Category04,No.,5,6.7,93.8
+9/10/2022,P0035,15,Online,Cash,0.0%,Product35,Category04,No.,5,6.7,100.5
+10/6/2022,P0035,1,Direct Sales,Online,0.0%,Product35,Category04,No.,5,6.7,6.7
+11/2/2022,P0035,5,Direct Sales,Cash,0.0%,Product35,Category04,No.,5,6.7,33.5
+1/9/2021,P0031,1,Direct Sales,Cash,0.0%,Product31,Category04,Kg,93,104.16,104.16
+1/25/2021,P0031,14,Direct Sales,Online,0.0%,Product31,Category04,Kg,93,104.16,1458.24
+4/5/2021,P0031,15,Online,Online,0.0%,Product31,Category04,Kg,93,104.16,1562.3999999999999
+8/20/2021,P0031,9,Direct Sales,Online,0.0%,Product31,Category04,Kg,93,104.16,937.4399999999999
+5/16/2022,P0031,13,Online,Online,0.0%,Product31,Category04,Kg,93,104.16,1354.08
+11/28/2022,P0031,8,Direct Sales,Cash,0.0%,Product31,Category04,Kg,93,104.16,833.28
+1/9/2021,P0003,8,Direct Sales,Cash,0.0%,Product03,Category01,Kg,71,80.94,647.52
+1/21/2021,P0003,9,Direct Sales,Online,0.0%,Product03,Category01,Kg,71,80.94,728.46
+7/3/2021,P0003,8,Online,Cash,0.0%,Product03,Category01,Kg,71,80.94,647.52
+8/16/2021,P0003,3,Online,Online,0.0%,Product03,Category01,Kg,71,80.94,242.82
+9/1/2021,P0003,14,Online,Online,0.0%,Product03,Category01,Kg,71,80.94,1133.1599999999999
+12/18/2021,P0003,2,Direct Sales,Cash,0.0%,Product03,Category01,Kg,71,80.94,161.88
+3/7/2022,P0003,1,Direct Sales,Cash,0.0%,Product03,Category01,Kg,71,80.94,80.94
+4/25/2022,P0003,8,Online,Online,0.0%,Product03,Category01,Kg,71,80.94,647.52
+7/25/2022,P0003,13,Online,Cash,0.0%,Product03,Category01,Kg,71,80.94,1052.22
+7/26/2022,P0003,10,Online,Online,0.0%,Product03,Category01,Kg,71,80.94,809.4
+9/9/2022,P0003,3,Direct Sales,Online,0.0%,Product03,Category01,Kg,71,80.94,242.82
+1/9/2021,P0025,4,Direct Sales,Online,0.0%,Product25,Category03,No.,7,8.33,33.32
+2/23/2021,P0025,3,Direct Sales,Cash,0.0%,Product25,Category03,No.,7,8.33,24.990000000000002
+3/11/2021,P0025,11,Direct Sales,Cash,0.0%,Product25,Category03,No.,7,8.33,91.63
+6/14/2021,P0025,10,Online,Cash,0.0%,Product25,Category03,No.,7,8.33,83.3
+6/18/2021,P0025,13,Direct Sales,Cash,0.0%,Product25,Category03,No.,7,8.33,108.29
+8/18/2021,P0025,6,Direct Sales,Online,0.0%,Product25,Category03,No.,7,8.33,49.980000000000004
+10/18/2021,P0025,6,Online,Cash,0.0%,Product25,Category03,No.,7,8.33,49.980000000000004
+7/5/2022,P0025,7,Online,Cash,0.0%,Product25,Category03,No.,7,8.33,58.31
+7/13/2022,P0025,7,Direct Sales,Online,0.0%,Product25,Category03,No.,7,8.33,58.31
+8/30/2022,P0025,5,Direct Sales,Cash,0.0%,Product25,Category03,No.,7,8.33,41.65
+1/11/2021,P0037,3,Direct Sales,Cash,0.0%,Product37,Category05,Kg,67,85.76,257.28000000000003
+2/4/2021,P0037,4,Online,Online,0.0%,Product37,Category05,Kg,67,85.76,343.04
+4/12/2021,P0037,3,Direct Sales,Cash,0.0%,Product37,Category05,Kg,67,85.76,257.28000000000003
+4/26/2021,P0037,3,Direct Sales,Online,0.0%,Product37,Category05,Kg,67,85.76,257.28000000000003
+7/23/2021,P0037,8,Direct Sales,Online,0.0%,Product37,Category05,Kg,67,85.76,686.08
+8/6/2021,P0037,1,Wholesaler,Cash,0.0%,Product37,Category05,Kg,67,85.76,85.76
+2/28/2022,P0037,15,Direct Sales,Cash,0.0%,Product37,Category05,Kg,67,85.76,1286.4
+8/26/2022,P0037,8,Online,Online,0.0%,Product37,Category05,Kg,67,85.76,686.08
+9/15/2022,P0037,15,Online,Online,0.0%,Product37,Category05,Kg,67,85.76,1286.4
+1/11/2021,P0014,4,Wholesaler,Online,0.0%,Product14,Category02,Kg,112,146.72,586.88
+5/4/2021,P0014,4,Direct Sales,Cash,0.0%,Product14,Category02,Kg,112,146.72,586.88
+6/29/2021,P0014,4,Direct Sales,Online,0.0%,Product14,Category02,Kg,112,146.72,586.88
+9/30/2021,P0014,9,Online,Online,0.0%,Product14,Category02,Kg,112,146.72,1320.48
+10/2/2021,P0014,15,Direct Sales,Online,0.0%,Product14,Category02,Kg,112,146.72,2200.8
+11/21/2021,P0014,1,Wholesaler,Online,0.0%,Product14,Category02,Kg,112,146.72,146.72
+1/16/2022,P0014,11,Online,Cash,0.0%,Product14,Category02,Kg,112,146.72,1613.92
+1/20/2022,P0014,7,Online,Online,0.0%,Product14,Category02,Kg,112,146.72,1027.04
+2/3/2022,P0014,8,Direct Sales,Online,0.0%,Product14,Category02,Kg,112,146.72,1173.76
+4/28/2022,P0014,14,Direct Sales,Cash,0.0%,Product14,Category02,Kg,112,146.72,2054.08
+12/11/2022,P0014,10,Online,Cash,0.0%,Product14,Category02,Kg,112,146.72,1467.2
+1/11/2021,P0042,4,Direct Sales,Online,0.0%,Product42,Category05,Ft,120,162.0,648.0
+1/12/2021,P0042,10,Online,Cash,0.0%,Product42,Category05,Ft,120,162.0,1620.0
+1/21/2021,P0042,6,Direct Sales,Online,0.0%,Product42,Category05,Ft,120,162.0,972.0
+3/18/2021,P0042,8,Wholesaler,Cash,0.0%,Product42,Category05,Ft,120,162.0,1296.0
+3/26/2021,P0042,1,Direct Sales,Cash,0.0%,Product42,Category05,Ft,120,162.0,162.0
+3/31/2021,P0042,3,Direct Sales,Cash,0.0%,Product42,Category05,Ft,120,162.0,486.0
+4/23/2021,P0042,6,Direct Sales,Online,0.0%,Product42,Category05,Ft,120,162.0,972.0
+5/1/2021,P0042,1,Online,Cash,0.0%,Product42,Category05,Ft,120,162.0,162.0
+5/20/2021,P0042,2,Online,Cash,0.0%,Product42,Category05,Ft,120,162.0,324.0
+9/15/2021,P0042,6,Direct Sales,Online,0.0%,Product42,Category05,Ft,120,162.0,972.0
+9/15/2021,P0042,14,Direct Sales,Online,0.0%,Product42,Category05,Ft,120,162.0,2268.0
+11/10/2021,P0042,6,Online,Cash,0.0%,Product42,Category05,Ft,120,162.0,972.0
+12/14/2021,P0042,4,Direct Sales,Online,0.0%,Product42,Category05,Ft,120,162.0,648.0
+12/24/2021,P0042,8,Wholesaler,Cash,0.0%,Product42,Category05,Ft,120,162.0,1296.0
+1/23/2022,P0042,8,Direct Sales,Online,0.0%,Product42,Category05,Ft,120,162.0,1296.0
+6/15/2022,P0042,15,Wholesaler,Online,0.0%,Product42,Category05,Ft,120,162.0,2430.0
+7/20/2022,P0042,8,Wholesaler,Online,0.0%,Product42,Category05,Ft,120,162.0,1296.0
+10/30/2022,P0042,3,Direct Sales,Cash,0.0%,Product42,Category05,Ft,120,162.0,486.0
+11/6/2022,P0042,13,Direct Sales,Cash,0.0%,Product42,Category05,Ft,120,162.0,2106.0
+12/29/2022,P0042,1,Wholesaler,Cash,0.0%,Product42,Category05,Ft,120,162.0,162.0
+1/18/2021,P0044,13,Direct Sales,Online,0.0%,Product44,Category05,Kg,76,82.08,1067.04
+1/26/2021,P0044,9,Wholesaler,Cash,0.0%,Product44,Category05,Kg,76,82.08,738.72
+3/8/2021,P0044,9,Online,Online,0.0%,Product44,Category05,Kg,76,82.08,738.72
+7/29/2021,P0044,15,Online,Cash,0.0%,Product44,Category05,Kg,76,82.08,1231.2
+8/10/2021,P0044,10,Online,Cash,0.0%,Product44,Category05,Kg,76,82.08,820.8
+9/9/2021,P0044,4,Direct Sales,Online,0.0%,Product44,Category05,Kg,76,82.08,328.32
+10/25/2021,P0044,9,Online,Cash,0.0%,Product44,Category05,Kg,76,82.08,738.72
+12/8/2021,P0044,14,Direct Sales,Online,0.0%,Product44,Category05,Kg,76,82.08,1149.12
+3/8/2022,P0044,6,Direct Sales,Online,0.0%,Product44,Category05,Kg,76,82.08,492.48
+4/23/2022,P0044,15,Online,Online,0.0%,Product44,Category05,Kg,76,82.08,1231.2
+5/20/2022,P0044,15,Online,Cash,0.0%,Product44,Category05,Kg,76,82.08,1231.2
+5/30/2022,P0044,9,Direct Sales,Online,0.0%,Product44,Category05,Kg,76,82.08,738.72
+7/25/2022,P0044,2,Direct Sales,Cash,0.0%,Product44,Category05,Kg,76,82.08,164.16
+8/23/2022,P0044,11,Online,Online,0.0%,Product44,Category05,Kg,76,82.08,902.88
+9/27/2022,P0044,9,Direct Sales,Cash,0.0%,Product44,Category05,Kg,76,82.08,738.72
+10/10/2022,P0044,12,Online,Online,0.0%,Product44,Category05,Kg,76,82.08,984.96
+10/14/2022,P0044,15,Wholesaler,Online,0.0%,Product44,Category05,Kg,76,82.08,1231.2
+12/4/2022,P0044,15,Direct Sales,Cash,0.0%,Product44,Category05,Kg,76,82.08,1231.2
+12/19/2022,P0044,7,Direct Sales,Online,0.0%,Product44,Category05,Kg,76,82.08,574.56
+1/18/2021,P0023,3,Online,Cash,0.0%,Product23,Category03,Ft,141,149.46,448.38
+2/12/2021,P0023,9,Online,Cash,0.0%,Product23,Category03,Ft,141,149.46,1345.14
+5/30/2021,P0023,13,Online,Online,0.0%,Product23,Category03,Ft,141,149.46,1942.98
+7/16/2021,P0023,8,Wholesaler,Cash,0.0%,Product23,Category03,Ft,141,149.46,1195.68
+8/2/2021,P0023,3,Direct Sales,Online,0.0%,Product23,Category03,Ft,141,149.46,448.38
+8/11/2021,P0023,4,Direct Sales,Online,0.0%,Product23,Category03,Ft,141,149.46,597.84
+9/4/2021,P0023,15,Direct Sales,Online,0.0%,Product23,Category03,Ft,141,149.46,2241.9
+12/19/2021,P0023,12,Direct Sales,Online,0.0%,Product23,Category03,Ft,141,149.46,1793.52
+1/31/2022,P0023,6,Online,Cash,0.0%,Product23,Category03,Ft,141,149.46,896.76
+8/20/2022,P0023,13,Direct Sales,Online,0.0%,Product23,Category03,Ft,141,149.46,1942.98
+1/20/2021,P0034,4,Direct Sales,Cash,0.0%,Product34,Category04,Lt,55,58.3,233.2
+1/25/2021,P0034,6,Direct Sales,Cash,0.0%,Product34,Category04,Lt,55,58.3,349.79999999999995
+2/9/2021,P0034,14,Direct Sales,Online,0.0%,Product34,Category04,Lt,55,58.3,816.1999999999999
+5/3/2021,P0034,3,Online,Online,0.0%,Product34,Category04,Lt,55,58.3,174.89999999999998
+7/10/2021,P0034,6,Wholesaler,Cash,0.0%,Product34,Category04,Lt,55,58.3,349.79999999999995
+8/3/2021,P0034,12,Online,Online,0.0%,Product34,Category04,Lt,55,58.3,699.5999999999999
+8/29/2021,P0034,12,Wholesaler,Online,0.0%,Product34,Category04,Lt,55,58.3,699.5999999999999
+9/27/2021,P0034,1,Direct Sales,Cash,0.0%,Product34,Category04,Lt,55,58.3,58.3
+11/20/2021,P0034,14,Online,Online,0.0%,Product34,Category04,Lt,55,58.3,816.1999999999999
+12/3/2021,P0034,2,Online,Cash,0.0%,Product34,Category04,Lt,55,58.3,116.6
+1/10/2022,P0034,14,Online,Online,0.0%,Product34,Category04,Lt,55,58.3,816.1999999999999
+4/24/2022,P0034,4,Direct Sales,Online,0.0%,Product34,Category04,Lt,55,58.3,233.2
+5/1/2022,P0034,9,Wholesaler,Online,0.0%,Product34,Category04,Lt,55,58.3,524.6999999999999
+5/6/2022,P0034,7,Direct Sales,Online,0.0%,Product34,Category04,Lt,55,58.3,408.09999999999997
+6/26/2022,P0034,4,Direct Sales,Cash,0.0%,Product34,Category04,Lt,55,58.3,233.2
+7/22/2022,P0034,6,Direct Sales,Cash,0.0%,Product34,Category04,Lt,55,58.3,349.79999999999995
+9/29/2022,P0034,13,Direct Sales,Online,0.0%,Product34,Category04,Lt,55,58.3,757.9
+11/18/2022,P0034,8,Direct Sales,Cash,0.0%,Product34,Category04,Lt,55,58.3,466.4
+11/27/2022,P0034,15,Direct Sales,Online,0.0%,Product34,Category04,Lt,55,58.3,874.5
+1/20/2021,P0020,4,Direct Sales,Cash,0.0%,Product20,Category03,Lt,61,76.25,305.0
+3/21/2021,P0020,13,Online,Online,0.0%,Product20,Category03,Lt,61,76.25,991.25
+6/4/2021,P0020,8,Wholesaler,Online,0.0%,Product20,Category03,Lt,61,76.25,610.0
+6/4/2021,P0020,12,Online,Cash,0.0%,Product20,Category03,Lt,61,76.25,915.0
+8/20/2021,P0020,15,Direct Sales,Cash,0.0%,Product20,Category03,Lt,61,76.25,1143.75
+9/21/2021,P0020,7,Wholesaler,Cash,0.0%,Product20,Category03,Lt,61,76.25,533.75
+5/4/2022,P0020,10,Direct Sales,Online,0.0%,Product20,Category03,Lt,61,76.25,762.5
+5/15/2022,P0020,5,Online,Online,0.0%,Product20,Category03,Lt,61,76.25,381.25
+5/28/2022,P0020,14,Direct Sales,Cash,0.0%,Product20,Category03,Lt,61,76.25,1067.5
+11/3/2022,P0020,11,Online,Online,0.0%,Product20,Category03,Lt,61,76.25,838.75
+11/21/2022,P0020,6,Direct Sales,Cash,0.0%,Product20,Category03,Lt,61,76.25,457.5
+1/26/2021,P0006,7,Online,Cash,0.0%,Product06,Category01,Kg,75,85.5,598.5
+3/25/2021,P0006,4,Direct Sales,Cash,0.0%,Product06,Category01,Kg,75,85.5,342.0
+8/10/2021,P0006,6,Direct Sales,Cash,0.0%,Product06,Category01,Kg,75,85.5,513.0
+9/30/2021,P0006,5,Online,Online,0.0%,Product06,Category01,Kg,75,85.5,427.5
+11/21/2021,P0006,1,Online,Cash,0.0%,Product06,Category01,Kg,75,85.5,85.5
+7/24/2022,P0006,14,Direct Sales,Cash,0.0%,Product06,Category01,Kg,75,85.5,1197.0
+8/30/2022,P0006,6,Online,Cash,0.0%,Product06,Category01,Kg,75,85.5,513.0
+12/21/2022,P0006,10,Direct Sales,Online,0.0%,Product06,Category01,Kg,75,85.5,855.0
+1/26/2021,P0001,7,Online,Online,0.0%,Product01,Category01,Kg,98,103.88,727.16
+3/26/2021,P0001,4,Direct Sales,Cash,0.0%,Product01,Category01,Kg,98,103.88,415.52
+6/9/2021,P0001,7,Direct Sales,Online,0.0%,Product01,Category01,Kg,98,103.88,727.16
+8/1/2021,P0001,11,Direct Sales,Cash,0.0%,Product01,Category01,Kg,98,103.88,1142.6799999999998
+8/31/2021,P0001,2,Direct Sales,Online,0.0%,Product01,Category01,Kg,98,103.88,207.76
+9/10/2021,P0001,9,Wholesaler,Online,0.0%,Product01,Category01,Kg,98,103.88,934.92
+9/11/2021,P0001,6,Wholesaler,Online,0.0%,Product01,Category01,Kg,98,103.88,623.28
+10/17/2021,P0001,13,Direct Sales,Online,0.0%,Product01,Category01,Kg,98,103.88,1350.44
+1/22/2022,P0001,6,Online,Cash,0.0%,Product01,Category01,Kg,98,103.88,623.28
+3/25/2022,P0001,2,Wholesaler,Online,0.0%,Product01,Category01,Kg,98,103.88,207.76
+3/30/2022,P0001,13,Online,Cash,0.0%,Product01,Category01,Kg,98,103.88,1350.44
+6/22/2022,P0001,4,Direct Sales,Cash,0.0%,Product01,Category01,Kg,98,103.88,415.52
+9/20/2022,P0001,10,Direct Sales,Online,0.0%,Product01,Category01,Kg,98,103.88,1038.8
+1/27/2021,P0040,7,Wholesaler,Online,0.0%,Product40,Category05,Kg,90,115.2,806.4
+4/4/2021,P0040,4,Direct Sales,Cash,0.0%,Product40,Category05,Kg,90,115.2,460.8
+5/23/2021,P0040,11,Direct Sales,Online,0.0%,Product40,Category05,Kg,90,115.2,1267.2
+9/22/2021,P0040,2,Online,Cash,0.0%,Product40,Category05,Kg,90,115.2,230.4
+11/11/2021,P0040,12,Wholesaler,Online,0.0%,Product40,Category05,Kg,90,115.2,1382.4
+11/28/2021,P0040,2,Direct Sales,Cash,0.0%,Product40,Category05,Kg,90,115.2,230.4
+1/17/2022,P0040,4,Online,Online,0.0%,Product40,Category05,Kg,90,115.2,460.8
+4/6/2022,P0040,2,Wholesaler,Cash,0.0%,Product40,Category05,Kg,90,115.2,230.4
+6/22/2022,P0040,10,Online,Cash,0.0%,Product40,Category05,Kg,90,115.2,1152.0
+11/7/2022,P0040,13,Online,Cash,0.0%,Product40,Category05,Kg,90,115.2,1497.6000000000001
+1/27/2021,P0032,3,Wholesaler,Online,0.0%,Product32,Category04,Kg,89,117.48,352.44
+2/25/2021,P0032,11,Online,Cash,0.0%,Product32,Category04,Kg,89,117.48,1292.28
+6/11/2021,P0032,12,Wholesaler,Cash,0.0%,Product32,Category04,Kg,89,117.48,1409.76
+9/5/2021,P0032,1,Direct Sales,Cash,0.0%,Product32,Category04,Kg,89,117.48,117.48
+10/9/2021,P0032,11,Online,Cash,0.0%,Product32,Category04,Kg,89,117.48,1292.28
+1/9/2022,P0032,12,Direct Sales,Online,0.0%,Product32,Category04,Kg,89,117.48,1409.76
+1/11/2022,P0032,2,Direct Sales,Online,0.0%,Product32,Category04,Kg,89,117.48,234.96
+2/9/2022,P0032,14,Online,Online,0.0%,Product32,Category04,Kg,89,117.48,1644.72
+2/16/2022,P0032,1,Online,Cash,0.0%,Product32,Category04,Kg,89,117.48,117.48
+3/23/2022,P0032,9,Direct Sales,Cash,0.0%,Product32,Category04,Kg,89,117.48,1057.32
+3/29/2022,P0032,12,Online,Online,0.0%,Product32,Category04,Kg,89,117.48,1409.76
+7/10/2022,P0032,12,Online,Cash,0.0%,Product32,Category04,Kg,89,117.48,1409.76
+8/8/2022,P0032,12,Direct Sales,Cash,0.0%,Product32,Category04,Kg,89,117.48,1409.76
+9/24/2022,P0032,14,Direct Sales,Online,0.0%,Product32,Category04,Kg,89,117.48,1644.72
+9/24/2022,P0032,8,Direct Sales,Cash,0.0%,Product32,Category04,Kg,89,117.48,939.84
+11/26/2022,P0032,5,Direct Sales,Online,0.0%,Product32,Category04,Kg,89,117.48,587.4
+1/28/2021,P0029,2,Direct Sales,Cash,0.0%,Product29,Category04,Lt,47,53.11,106.22
+3/9/2021,P0029,6,Wholesaler,Online,0.0%,Product29,Category04,Lt,47,53.11,318.65999999999997
+3/25/2021,P0029,8,Direct Sales,Cash,0.0%,Product29,Category04,Lt,47,53.11,424.88
+4/12/2021,P0029,4,Direct Sales,Online,0.0%,Product29,Category04,Lt,47,53.11,212.44
+4/30/2021,P0029,1,Direct Sales,Online,0.0%,Product29,Category04,Lt,47,53.11,53.11
+5/13/2021,P0029,4,Direct Sales,Online,0.0%,Product29,Category04,Lt,47,53.11,212.44
+7/21/2021,P0029,15,Direct Sales,Online,0.0%,Product29,Category04,Lt,47,53.11,796.65
+12/19/2021,P0029,3,Wholesaler,Online,0.0%,Product29,Category04,Lt,47,53.11,159.32999999999998
+12/27/2021,P0029,14,Direct Sales,Cash,0.0%,Product29,Category04,Lt,47,53.11,743.54
+12/28/2021,P0029,6,Direct Sales,Cash,0.0%,Product29,Category04,Lt,47,53.11,318.65999999999997
+1/4/2022,P0029,1,Online,Online,0.0%,Product29,Category04,Lt,47,53.11,53.11
+6/16/2022,P0029,15,Online,Cash,0.0%,Product29,Category04,Lt,47,53.11,796.65
+8/18/2022,P0029,8,Online,Online,0.0%,Product29,Category04,Lt,47,53.11,424.88
+8/23/2022,P0029,14,Direct Sales,Cash,0.0%,Product29,Category04,Lt,47,53.11,743.54
+9/14/2022,P0029,3,Direct Sales,Cash,0.0%,Product29,Category04,Lt,47,53.11,159.32999999999998
+2/2/2021,P0010,7,Online,Online,0.0%,Product10,Category02,Ft,148,164.28,1149.96
+3/26/2021,P0010,9,Direct Sales,Online,0.0%,Product10,Category02,Ft,148,164.28,1478.52
+7/2/2021,P0010,11,Direct Sales,Cash,0.0%,Product10,Category02,Ft,148,164.28,1807.08
+11/12/2021,P0010,3,Online,Cash,0.0%,Product10,Category02,Ft,148,164.28,492.84000000000003
+12/5/2021,P0010,1,Direct Sales,Online,0.0%,Product10,Category02,Ft,148,164.28,164.28
+12/30/2021,P0010,13,Online,Online,0.0%,Product10,Category02,Ft,148,164.28,2135.64
+1/2/2022,P0010,7,Direct Sales,Cash,0.0%,Product10,Category02,Ft,148,164.28,1149.96
+2/12/2022,P0010,13,Direct Sales,Cash,0.0%,Product10,Category02,Ft,148,164.28,2135.64
+5/16/2022,P0010,13,Direct Sales,Cash,0.0%,Product10,Category02,Ft,148,164.28,2135.64
+5/28/2022,P0010,9,Online,Cash,0.0%,Product10,Category02,Ft,148,164.28,1478.52
+7/18/2022,P0010,12,Direct Sales,Online,0.0%,Product10,Category02,Ft,148,164.28,1971.3600000000001
+8/18/2022,P0010,2,Online,Cash,0.0%,Product10,Category02,Ft,148,164.28,328.56
+2/3/2021,P0016,13,Direct Sales,Online,0.0%,Product16,Category02,No.,13,16.64,216.32
+5/9/2021,P0016,6,Online,Online,0.0%,Product16,Category02,No.,13,16.64,99.84
+5/12/2021,P0016,3,Direct Sales,Online,0.0%,Product16,Category02,No.,13,16.64,49.92
+6/20/2021,P0016,1,Wholesaler,Cash,0.0%,Product16,Category02,No.,13,16.64,16.64
+6/23/2021,P0016,4,Direct Sales,Online,0.0%,Product16,Category02,No.,13,16.64,66.56
+12/2/2021,P0016,10,Direct Sales,Cash,0.0%,Product16,Category02,No.,13,16.64,166.4
+1/28/2022,P0016,11,Direct Sales,Online,0.0%,Product16,Category02,No.,13,16.64,183.04000000000002
+2/23/2022,P0016,15,Online,Cash,0.0%,Product16,Category02,No.,13,16.64,249.60000000000002
+3/14/2022,P0016,2,Direct Sales,Cash,0.0%,Product16,Category02,No.,13,16.64,33.28
+4/13/2022,P0016,14,Wholesaler,Online,0.0%,Product16,Category02,No.,13,16.64,232.96
+4/30/2022,P0016,13,Online,Online,0.0%,Product16,Category02,No.,13,16.64,216.32
+8/6/2022,P0016,9,Online,Online,0.0%,Product16,Category02,No.,13,16.64,149.76
+8/8/2022,P0016,2,Direct Sales,Online,0.0%,Product16,Category02,No.,13,16.64,33.28
+8/21/2022,P0016,4,Direct Sales,Online,0.0%,Product16,Category02,No.,13,16.64,66.56
+12/7/2022,P0016,13,Direct Sales,Online,0.0%,Product16,Category02,No.,13,16.64,216.32
+2/3/2021,P0022,2,Wholesaler,Cash,0.0%,Product22,Category03,Ft,121,141.57,283.14
+4/10/2021,P0022,14,Direct Sales,Online,0.0%,Product22,Category03,Ft,121,141.57,1981.98
+6/5/2021,P0022,15,Wholesaler,Online,0.0%,Product22,Category03,Ft,121,141.57,2123.5499999999997
+8/3/2021,P0022,13,Online,Online,0.0%,Product22,Category03,Ft,121,141.57,1840.4099999999999
+12/18/2021,P0022,8,Online,Cash,0.0%,Product22,Category03,Ft,121,141.57,1132.56
+1/1/2022,P0022,1,Wholesaler,Cash,0.0%,Product22,Category03,Ft,121,141.57,141.57
+1/15/2022,P0022,10,Direct Sales,Cash,0.0%,Product22,Category03,Ft,121,141.57,1415.6999999999998
+5/8/2022,P0022,7,Online,Online,0.0%,Product22,Category03,Ft,121,141.57,990.99
+2/5/2021,P0043,7,Online,Cash,0.0%,Product43,Category05,Kg,67,83.08,581.56
+2/5/2021,P0043,9,Direct Sales,Cash,0.0%,Product43,Category05,Kg,67,83.08,747.72
+7/20/2021,P0043,5,Direct Sales,Online,0.0%,Product43,Category05,Kg,67,83.08,415.4
+1/3/2022,P0043,9,Direct Sales,Cash,0.0%,Product43,Category05,Kg,67,83.08,747.72
+6/26/2022,P0043,12,Direct Sales,Online,0.0%,Product43,Category05,Kg,67,83.08,996.96
+8/30/2022,P0043,6,Direct Sales,Cash,0.0%,Product43,Category05,Kg,67,83.08,498.48
+9/22/2022,P0043,12,Online,Online,0.0%,Product43,Category05,Kg,67,83.08,996.96
+11/6/2022,P0043,13,Direct Sales,Cash,0.0%,Product43,Category05,Kg,67,83.08,1080.04
+2/5/2021,P0005,1,Direct Sales,Cash,0.0%,Product05,Category01,Ft,133,155.61,155.61
+2/23/2021,P0005,2,Direct Sales,Online,0.0%,Product05,Category01,Ft,133,155.61,311.22
+4/9/2021,P0005,3,Online,Online,0.0%,Product05,Category01,Ft,133,155.61,466.83000000000004
+6/27/2021,P0005,11,Direct Sales,Cash,0.0%,Product05,Category01,Ft,133,155.61,1711.71
+7/1/2021,P0005,11,Direct Sales,Cash,0.0%,Product05,Category01,Ft,133,155.61,1711.71
+8/10/2021,P0005,4,Wholesaler,Cash,0.0%,Product05,Category01,Ft,133,155.61,622.44
+2/1/2022,P0005,9,Direct Sales,Cash,0.0%,Product05,Category01,Ft,133,155.61,1400.4900000000002
+2/8/2022,P0005,11,Online,Cash,0.0%,Product05,Category01,Ft,133,155.61,1711.71
+2/27/2022,P0005,15,Direct Sales,Online,0.0%,Product05,Category01,Ft,133,155.61,2334.15
+5/30/2022,P0005,4,Wholesaler,Cash,0.0%,Product05,Category01,Ft,133,155.61,622.44
+8/24/2022,P0005,5,Direct Sales,Cash,0.0%,Product05,Category01,Ft,133,155.61,778.0500000000001
+8/28/2022,P0005,9,Online,Online,0.0%,Product05,Category01,Ft,133,155.61,1400.4900000000002
+9/6/2022,P0005,12,Wholesaler,Online,0.0%,Product05,Category01,Ft,133,155.61,1867.3200000000002
+12/14/2022,P0005,4,Direct Sales,Cash,0.0%,Product05,Category01,Ft,133,155.61,622.44
+2/12/2021,P0008,7,Direct Sales,Cash,0.0%,Product08,Category01,Kg,83,94.62,662.34
+5/6/2021,P0008,15,Direct Sales,Online,0.0%,Product08,Category01,Kg,83,94.62,1419.3000000000002
+10/28/2021,P0008,1,Direct Sales,Cash,0.0%,Product08,Category01,Kg,83,94.62,94.62
+11/20/2021,P0008,11,Online,Cash,0.0%,Product08,Category01,Kg,83,94.62,1040.8200000000002
+1/18/2022,P0008,9,Wholesaler,Cash,0.0%,Product08,Category01,Kg,83,94.62,851.58
+5/14/2022,P0008,14,Direct Sales,Cash,0.0%,Product08,Category01,Kg,83,94.62,1324.68
+5/28/2022,P0008,5,Wholesaler,Online,0.0%,Product08,Category01,Kg,83,94.62,473.1
+6/3/2022,P0008,14,Online,Online,0.0%,Product08,Category01,Kg,83,94.62,1324.68
+10/11/2022,P0008,10,Direct Sales,Online,0.0%,Product08,Category01,Kg,83,94.62,946.2
+11/4/2022,P0008,10,Direct Sales,Online,0.0%,Product08,Category01,Kg,83,94.62,946.2
+12/29/2022,P0008,15,Direct Sales,Online,0.0%,Product08,Category01,Kg,83,94.62,1419.3000000000002
+2/15/2021,P0027,4,Direct Sales,Online,0.0%,Product27,Category04,Lt,48,57.12,228.48
+3/8/2021,P0027,6,Online,Cash,0.0%,Product27,Category04,Lt,48,57.12,342.71999999999997
+4/12/2021,P0027,9,Direct Sales,Online,0.0%,Product27,Category04,Lt,48,57.12,514.0799999999999
+7/18/2021,P0027,14,Online,Online,0.0%,Product27,Category04,Lt,48,57.12,799.68
+8/13/2021,P0027,9,Direct Sales,Online,0.0%,Product27,Category04,Lt,48,57.12,514.0799999999999
+10/12/2021,P0027,8,Online,Online,0.0%,Product27,Category04,Lt,48,57.12,456.96
+3/18/2022,P0027,10,Direct Sales,Cash,0.0%,Product27,Category04,Lt,48,57.12,571.1999999999999
+4/26/2022,P0027,2,Direct Sales,Cash,0.0%,Product27,Category04,Lt,48,57.12,114.24
+4/30/2022,P0027,8,Direct Sales,Online,0.0%,Product27,Category04,Lt,48,57.12,456.96
+5/7/2022,P0027,1,Online,Online,0.0%,Product27,Category04,Lt,48,57.12,57.12
+5/17/2022,P0027,8,Direct Sales,Cash,0.0%,Product27,Category04,Lt,48,57.12,456.96
+5/18/2022,P0027,4,Wholesaler,Online,0.0%,Product27,Category04,Lt,48,57.12,228.48
+5/26/2022,P0027,2,Online,Online,0.0%,Product27,Category04,Lt,48,57.12,114.24
+7/24/2022,P0027,1,Online,Online,0.0%,Product27,Category04,Lt,48,57.12,57.12
+11/9/2022,P0027,8,Online,Cash,0.0%,Product27,Category04,Lt,48,57.12,456.96
+11/13/2022,P0027,10,Wholesaler,Cash,0.0%,Product27,Category04,Lt,48,57.12,571.1999999999999
+12/11/2022,P0027,5,Direct Sales,Online,0.0%,Product27,Category04,Lt,48,57.12,285.59999999999997
+2/18/2021,P0015,6,Online,Cash,0.0%,Product15,Category02,No.,12,15.72,94.32000000000001
+5/4/2021,P0015,13,Online,Online,0.0%,Product15,Category02,No.,12,15.72,204.36
+6/16/2021,P0015,12,Online,Cash,0.0%,Product15,Category02,No.,12,15.72,188.64000000000001
+1/2/2022,P0015,2,Online,Cash,0.0%,Product15,Category02,No.,12,15.72,31.44
+5/7/2022,P0015,4,Online,Cash,0.0%,Product15,Category02,No.,12,15.72,62.88
+5/22/2022,P0015,12,Direct Sales,Online,0.0%,Product15,Category02,No.,12,15.72,188.64000000000001
+7/5/2022,P0015,8,Direct Sales,Online,0.0%,Product15,Category02,No.,12,15.72,125.76
+8/15/2022,P0015,7,Direct Sales,Online,0.0%,Product15,Category02,No.,12,15.72,110.04
+8/31/2022,P0015,13,Direct Sales,Cash,0.0%,Product15,Category02,No.,12,15.72,204.36
+10/15/2022,P0015,10,Direct Sales,Cash,0.0%,Product15,Category02,No.,12,15.72,157.20000000000002
+11/2/2022,P0015,15,Wholesaler,Cash,0.0%,Product15,Category02,No.,12,15.72,235.8
+11/6/2022,P0015,13,Online,Online,0.0%,Product15,Category02,No.,12,15.72,204.36
+11/30/2022,P0015,2,Direct Sales,Online,0.0%,Product15,Category02,No.,12,15.72,31.44
+2/20/2021,P0030,11,Online,Cash,0.0%,Product30,Category04,Ft,148,201.28,2214.08
+2/25/2021,P0030,2,Direct Sales,Online,0.0%,Product30,Category04,Ft,148,201.28,402.56
+3/27/2021,P0030,3,Direct Sales,Online,0.0%,Product30,Category04,Ft,148,201.28,603.84
+4/24/2021,P0030,2,Online,Online,0.0%,Product30,Category04,Ft,148,201.28,402.56
+4/29/2021,P0030,7,Direct Sales,Online,0.0%,Product30,Category04,Ft,148,201.28,1408.96
+9/10/2021,P0030,6,Direct Sales,Online,0.0%,Product30,Category04,Ft,148,201.28,1207.68
+10/1/2021,P0030,14,Online,Cash,0.0%,Product30,Category04,Ft,148,201.28,2817.92
+1/24/2022,P0030,15,Online,Online,0.0%,Product30,Category04,Ft,148,201.28,3019.2
+3/9/2022,P0030,3,Direct Sales,Online,0.0%,Product30,Category04,Ft,148,201.28,603.84
+3/25/2022,P0030,11,Direct Sales,Online,0.0%,Product30,Category04,Ft,148,201.28,2214.08
+4/21/2022,P0030,2,Direct Sales,Cash,0.0%,Product30,Category04,Ft,148,201.28,402.56
+8/14/2022,P0030,14,Direct Sales,Cash,0.0%,Product30,Category04,Ft,148,201.28,2817.92
+11/2/2022,P0030,15,Direct Sales,Cash,0.0%,Product30,Category04,Ft,148,201.28,3019.2
+12/12/2022,P0030,9,Wholesaler,Cash,0.0%,Product30,Category04,Ft,148,201.28,1811.52
+2/25/2021,P0002,4,Wholesaler,Online,0.0%,Product02,Category01,Kg,105,142.8,571.2
+3/22/2021,P0002,8,Online,Online,0.0%,Product02,Category01,Kg,105,142.8,1142.4
+7/5/2021,P0002,8,Direct Sales,Online,0.0%,Product02,Category01,Kg,105,142.8,1142.4
+9/22/2021,P0002,4,Direct Sales,Cash,0.0%,Product02,Category01,Kg,105,142.8,571.2
+1/23/2022,P0002,5,Wholesaler,Cash,0.0%,Product02,Category01,Kg,105,142.8,714.0
+2/6/2022,P0002,6,Direct Sales,Cash,0.0%,Product02,Category01,Kg,105,142.8,856.8000000000001
+2/19/2022,P0002,13,Online,Cash,0.0%,Product02,Category01,Kg,105,142.8,1856.4
+4/1/2022,P0002,2,Online,Cash,0.0%,Product02,Category01,Kg,105,142.8,285.6
+4/2/2022,P0002,3,Direct Sales,Cash,0.0%,Product02,Category01,Kg,105,142.8,428.40000000000003
+4/9/2022,P0002,9,Online,Online,0.0%,Product02,Category01,Kg,105,142.8,1285.2
+5/25/2022,P0002,7,Online,Online,0.0%,Product02,Category01,Kg,105,142.8,999.6000000000001
+6/19/2022,P0002,8,Direct Sales,Cash,0.0%,Product02,Category01,Kg,105,142.8,1142.4
+9/4/2022,P0002,1,Direct Sales,Cash,0.0%,Product02,Category01,Kg,105,142.8,142.8
+10/13/2022,P0002,15,Online,Online,0.0%,Product02,Category01,Kg,105,142.8,2142.0
+11/14/2022,P0002,1,Direct Sales,Cash,0.0%,Product02,Category01,Kg,105,142.8,142.8
+2/27/2021,P0018,11,Wholesaler,Online,0.0%,Product18,Category02,No.,37,49.21,541.3100000000001
+4/16/2021,P0018,15,Direct Sales,Cash,0.0%,Product18,Category02,No.,37,49.21,738.15
+5/1/2021,P0018,3,Online,Cash,0.0%,Product18,Category02,No.,37,49.21,147.63
+5/7/2021,P0018,1,Direct Sales,Cash,0.0%,Product18,Category02,No.,37,49.21,49.21
+9/23/2021,P0018,12,Direct Sales,Cash,0.0%,Product18,Category02,No.,37,49.21,590.52
+2/5/2022,P0018,6,Direct Sales,Cash,0.0%,Product18,Category02,No.,37,49.21,295.26
+4/20/2022,P0018,2,Wholesaler,Online,0.0%,Product18,Category02,No.,37,49.21,98.42
+6/24/2022,P0018,7,Direct Sales,Cash,0.0%,Product18,Category02,No.,37,49.21,344.47
+7/8/2022,P0018,2,Direct Sales,Online,0.0%,Product18,Category02,No.,37,49.21,98.42
+7/23/2022,P0018,2,Online,Online,0.0%,Product18,Category02,No.,37,49.21,98.42
+9/21/2022,P0018,14,Online,Online,0.0%,Product18,Category02,No.,37,49.21,688.94
+11/10/2022,P0018,7,Direct Sales,Online,0.0%,Product18,Category02,No.,37,49.21,344.47
+3/3/2021,P0011,1,Direct Sales,Online,0.0%,Product11,Category02,Lt,44,48.4,48.4
+6/24/2021,P0011,13,Direct Sales,Online,0.0%,Product11,Category02,Lt,44,48.4,629.1999999999999
+8/13/2021,P0011,13,Direct Sales,Online,0.0%,Product11,Category02,Lt,44,48.4,629.1999999999999
+10/11/2021,P0011,15,Direct Sales,Cash,0.0%,Product11,Category02,Lt,44,48.4,726.0
+10/22/2021,P0011,7,Direct Sales,Cash,0.0%,Product11,Category02,Lt,44,48.4,338.8
+10/24/2021,P0011,3,Wholesaler,Cash,0.0%,Product11,Category02,Lt,44,48.4,145.2
+12/19/2021,P0011,10,Online,Online,0.0%,Product11,Category02,Lt,44,48.4,484.0
+1/14/2022,P0011,14,Direct Sales,Online,0.0%,Product11,Category02,Lt,44,48.4,677.6
+5/12/2022,P0011,7,Online,Cash,0.0%,Product11,Category02,Lt,44,48.4,338.8
+8/15/2022,P0011,10,Wholesaler,Cash,0.0%,Product11,Category02,Lt,44,48.4,484.0
+10/3/2022,P0011,5,Direct Sales,Cash,0.0%,Product11,Category02,Lt,44,48.4,242.0
+12/19/2022,P0011,14,Direct Sales,Cash,0.0%,Product11,Category02,Lt,44,48.4,677.6
+12/31/2022,P0011,6,Online,Online,0.0%,Product11,Category02,Lt,44,48.4,290.4
+12/31/2022,P0011,3,Wholesaler,Cash,0.0%,Product11,Category02,Lt,44,48.4,145.2
+3/7/2021,P0021,9,Direct Sales,Cash,0.0%,Product21,Category03,Ft,126,162.54,1462.86
+6/3/2021,P0021,10,Direct Sales,Cash,0.0%,Product21,Category03,Ft,126,162.54,1625.3999999999999
+6/28/2021,P0021,2,Online,Cash,0.0%,Product21,Category03,Ft,126,162.54,325.08
+9/23/2021,P0021,7,Online,Online,0.0%,Product21,Category03,Ft,126,162.54,1137.78
+10/18/2021,P0021,13,Online,Cash,0.0%,Product21,Category03,Ft,126,162.54,2113.02
+10/31/2021,P0021,6,Online,Cash,0.0%,Product21,Category03,Ft,126,162.54,975.24
+1/20/2022,P0021,2,Direct Sales,Cash,0.0%,Product21,Category03,Ft,126,162.54,325.08
+6/11/2022,P0021,6,Direct Sales,Online,0.0%,Product21,Category03,Ft,126,162.54,975.24
+8/8/2022,P0021,11,Direct Sales,Cash,0.0%,Product21,Category03,Ft,126,162.54,1787.9399999999998
+3/13/2021,P0028,10,Wholesaler,Cash,0.0%,Product28,Category04,No.,37,41.81,418.1
+3/19/2021,P0028,9,Online,Cash,0.0%,Product28,Category04,No.,37,41.81,376.29
+4/23/2021,P0028,10,Direct Sales,Online,0.0%,Product28,Category04,No.,37,41.81,418.1
+5/9/2021,P0028,8,Direct Sales,Cash,0.0%,Product28,Category04,No.,37,41.81,334.48
+6/8/2021,P0028,11,Direct Sales,Online,0.0%,Product28,Category04,No.,37,41.81,459.91
+8/5/2021,P0028,14,Direct Sales,Cash,0.0%,Product28,Category04,No.,37,41.81,585.34
+8/20/2021,P0028,13,Direct Sales,Online,0.0%,Product28,Category04,No.,37,41.81,543.53
+9/4/2021,P0028,7,Direct Sales,Online,0.0%,Product28,Category04,No.,37,41.81,292.67
+2/14/2022,P0028,3,Direct Sales,Cash,0.0%,Product28,Category04,No.,37,41.81,125.43
+5/26/2022,P0028,2,Direct Sales,Online,0.0%,Product28,Category04,No.,37,41.81,83.62
+6/10/2022,P0028,8,Wholesaler,Online,0.0%,Product28,Category04,No.,37,41.81,334.48
+7/12/2022,P0028,12,Direct Sales,Cash,0.0%,Product28,Category04,No.,37,41.81,501.72
+12/3/2022,P0028,5,Wholesaler,Cash,0.0%,Product28,Category04,No.,37,41.81,209.05
+3/15/2021,P0039,11,Online,Cash,0.0%,Product39,Category05,No.,37,42.55,468.04999999999995
+3/21/2021,P0039,7,Direct Sales,Online,0.0%,Product39,Category05,No.,37,42.55,297.84999999999997
+6/16/2021,P0039,11,Direct Sales,Cash,0.0%,Product39,Category05,No.,37,42.55,468.04999999999995
+8/26/2021,P0039,4,Direct Sales,Online,0.0%,Product39,Category05,No.,37,42.55,170.2
+11/30/2021,P0039,15,Direct Sales,Online,0.0%,Product39,Category05,No.,37,42.55,638.25
+4/9/2022,P0039,12,Wholesaler,Cash,0.0%,Product39,Category05,No.,37,42.55,510.59999999999997
+6/11/2022,P0039,13,Online,Cash,0.0%,Product39,Category05,No.,37,42.55,553.15
+8/27/2022,P0039,15,Wholesaler,Online,0.0%,Product39,Category05,No.,37,42.55,638.25
+8/28/2022,P0039,5,Direct Sales,Online,0.0%,Product39,Category05,No.,37,42.55,212.75
+3/16/2021,P0012,14,Direct Sales,Cash,0.0%,Product12,Category02,Kg,73,94.17,1318.38
+3/22/2021,P0012,4,Online,Online,0.0%,Product12,Category02,Kg,73,94.17,376.68
+11/27/2021,P0012,8,Online,Online,0.0%,Product12,Category02,Kg,73,94.17,753.36
+12/20/2021,P0012,14,Direct Sales,Online,0.0%,Product12,Category02,Kg,73,94.17,1318.38
+1/4/2022,P0012,8,Direct Sales,Online,0.0%,Product12,Category02,Kg,73,94.17,753.36
+2/20/2022,P0012,6,Direct Sales,Cash,0.0%,Product12,Category02,Kg,73,94.17,565.02
+2/27/2022,P0012,7,Direct Sales,Cash,0.0%,Product12,Category02,Kg,73,94.17,659.19
+4/20/2022,P0012,4,Direct Sales,Online,0.0%,Product12,Category02,Kg,73,94.17,376.68
+5/13/2022,P0012,5,Direct Sales,Online,0.0%,Product12,Category02,Kg,73,94.17,470.85
+6/25/2022,P0012,7,Online,Online,0.0%,Product12,Category02,Kg,73,94.17,659.19
+8/3/2022,P0012,5,Direct Sales,Cash,0.0%,Product12,Category02,Kg,73,94.17,470.85
+9/23/2022,P0012,12,Direct Sales,Online,0.0%,Product12,Category02,Kg,73,94.17,1130.04
+11/1/2022,P0012,15,Wholesaler,Online,0.0%,Product12,Category02,Kg,73,94.17,1412.55
+11/15/2022,P0012,14,Direct Sales,Cash,0.0%,Product12,Category02,Kg,73,94.17,1318.38
+3/28/2021,P0007,8,Online,Cash,0.0%,Product07,Category01,Lt,43,47.73,381.84
+11/8/2021,P0007,15,Direct Sales,Online,0.0%,Product07,Category01,Lt,43,47.73,715.9499999999999
+7/4/2022,P0007,7,Direct Sales,Online,0.0%,Product07,Category01,Lt,43,47.73,334.10999999999996
+8/19/2022,P0007,3,Online,Online,0.0%,Product07,Category01,Lt,43,47.73,143.19
+10/4/2022,P0007,15,Direct Sales,Online,0.0%,Product07,Category01,Lt,43,47.73,715.9499999999999
+4/4/2021,P0009,9,Online,Cash,0.0%,Product09,Category01,No.,6,7.86,70.74000000000001
+5/5/2021,P0009,13,Direct Sales,Cash,0.0%,Product09,Category01,No.,6,7.86,102.18
+5/6/2021,P0009,6,Online,Online,0.0%,Product09,Category01,No.,6,7.86,47.160000000000004
+6/26/2021,P0009,7,Online,Online,0.0%,Product09,Category01,No.,6,7.86,55.02
+7/11/2021,P0009,4,Wholesaler,Online,0.0%,Product09,Category01,No.,6,7.86,31.44
+7/24/2021,P0009,4,Online,Cash,0.0%,Product09,Category01,No.,6,7.86,31.44
+10/22/2021,P0009,1,Direct Sales,Cash,0.0%,Product09,Category01,No.,6,7.86,7.86
+5/10/2022,P0009,6,Direct Sales,Online,0.0%,Product09,Category01,No.,6,7.86,47.160000000000004
+12/15/2022,P0009,13,Direct Sales,Online,0.0%,Product09,Category01,No.,6,7.86,102.18
+12/19/2022,P0009,11,Online,Online,0.0%,Product09,Category01,No.,6,7.86,86.46000000000001
+4/12/2021,P0033,13,Direct Sales,Cash,0.0%,Product33,Category04,Kg,95,119.7,1556.1000000000001
+6/6/2021,P0033,6,Direct Sales,Online,0.0%,Product33,Category04,Kg,95,119.7,718.2
+7/3/2021,P0033,9,Online,Cash,0.0%,Product33,Category04,Kg,95,119.7,1077.3
+1/2/2022,P0033,1,Direct Sales,Cash,0.0%,Product33,Category04,Kg,95,119.7,119.7
+3/10/2022,P0033,12,Wholesaler,Online,0.0%,Product33,Category04,Kg,95,119.7,1436.4
+5/1/2022,P0033,6,Online,Online,0.0%,Product33,Category04,Kg,95,119.7,718.2
+5/30/2022,P0033,3,Online,Cash,0.0%,Product33,Category04,Kg,95,119.7,359.1
+7/3/2022,P0033,15,Direct Sales,Cash,0.0%,Product33,Category04,Kg,95,119.7,1795.5
+7/14/2022,P0033,9,Direct Sales,Online,0.0%,Product33,Category04,Kg,95,119.7,1077.3
+8/20/2022,P0033,14,Direct Sales,Online,0.0%,Product33,Category04,Kg,95,119.7,1675.8
+9/19/2022,P0033,8,Wholesaler,Cash,0.0%,Product33,Category04,Kg,95,119.7,957.6
+9/20/2022,P0033,6,Direct Sales,Online,0.0%,Product33,Category04,Kg,95,119.7,718.2
+12/31/2022,P0033,12,Online,Online,0.0%,Product33,Category04,Kg,95,119.7,1436.4
+4/15/2021,P0017,3,Direct Sales,Online,0.0%,Product17,Category02,Ft,134,156.78,470.34000000000003
+1/25/2022,P0017,14,Direct Sales,Cash,0.0%,Product17,Category02,Ft,134,156.78,2194.92
+5/9/2022,P0017,12,Wholesaler,Cash,0.0%,Product17,Category02,Ft,134,156.78,1881.3600000000001
+6/21/2022,P0017,14,Direct Sales,Cash,0.0%,Product17,Category02,Ft,134,156.78,2194.92
+7/25/2022,P0017,12,Direct Sales,Cash,0.0%,Product17,Category02,Ft,134,156.78,1881.3600000000001
+11/16/2022,P0017,8,Online,Online,0.0%,Product17,Category02,Ft,134,156.78,1254.24
+4/18/2021,P0019,13,Direct Sales,Cash,0.0%,Product19,Category02,Ft,150,210.0,2730.0
+6/16/2021,P0019,5,Wholesaler,Cash,0.0%,Product19,Category02,Ft,150,210.0,1050.0
+7/13/2021,P0019,1,Direct Sales,Cash,0.0%,Product19,Category02,Ft,150,210.0,210.0
+9/7/2021,P0019,5,Direct Sales,Online,0.0%,Product19,Category02,Ft,150,210.0,1050.0
+10/3/2021,P0019,9,Direct Sales,Online,0.0%,Product19,Category02,Ft,150,210.0,1890.0
+12/3/2021,P0019,8,Online,Online,0.0%,Product19,Category02,Ft,150,210.0,1680.0
+1/13/2022,P0019,6,Online,Online,0.0%,Product19,Category02,Ft,150,210.0,1260.0
+3/18/2022,P0019,2,Online,Cash,0.0%,Product19,Category02,Ft,150,210.0,420.0
+8/26/2022,P0019,13,Wholesaler,Cash,0.0%,Product19,Category02,Ft,150,210.0,2730.0
+10/10/2022,P0019,9,Direct Sales,Online,0.0%,Product19,Category02,Ft,150,210.0,1890.0
+11/5/2022,P0019,15,Direct Sales,Cash,0.0%,Product19,Category02,Ft,150,210.0,3150.0
+11/8/2022,P0019,10,Wholesaler,Online,0.0%,Product19,Category02,Ft,150,210.0,2100.0
+6/12/2021,P0041,6,Direct Sales,Online,0.0%,Product41,Category05,Ft,138,173.88,1043.28
+6/19/2021,P0041,5,Direct Sales,Online,0.0%,Product41,Category05,Ft,138,173.88,869.4
+7/6/2021,P0041,15,Direct Sales,Cash,0.0%,Product41,Category05,Ft,138,173.88,2608.2
+9/3/2021,P0041,8,Direct Sales,Online,0.0%,Product41,Category05,Ft,138,173.88,1391.04
+9/13/2021,P0041,7,Direct Sales,Cash,0.0%,Product41,Category05,Ft,138,173.88,1217.1599999999999
+12/26/2021,P0041,14,Online,Cash,0.0%,Product41,Category05,Ft,138,173.88,2434.3199999999997
+1/31/2022,P0041,9,Direct Sales,Cash,0.0%,Product41,Category05,Ft,138,173.88,1564.92
+3/19/2022,P0041,6,Wholesaler,Cash,0.0%,Product41,Category05,Ft,138,173.88,1043.28
+4/18/2022,P0041,9,Direct Sales,Cash,0.0%,Product41,Category05,Ft,138,173.88,1564.92
+5/28/2022,P0041,10,Wholesaler,Cash,0.0%,Product41,Category05,Ft,138,173.88,1738.8
+7/6/2022,P0041,2,Direct Sales,Cash,0.0%,Product41,Category05,Ft,138,173.88,347.76
+7/17/2022,P0041,8,Online,Cash,0.0%,Product41,Category05,Ft,138,173.88,1391.04
+9/9/2022,P0041,9,Direct Sales,Online,0.0%,Product41,Category05,Ft,138,173.88,1564.92
+12/12/2022,P0041,10,Wholesaler,Online,0.0%,Product41,Category05,Ft,138,173.88,1738.8
+12/30/2022,P0041,14,Direct Sales,Online,0.0%,Product41,Category05,Ft,138,173.88,2434.3199999999997
+7/22/2021,P0026,3,Wholesaler,Cash,0.0%,Product26,Category04,No.,18,24.66,73.98
+9/10/2021,P0026,2,Direct Sales,Online,0.0%,Product26,Category04,No.,18,24.66,49.32
+10/7/2021,P0026,6,Direct Sales,Cash,0.0%,Product26,Category04,No.,18,24.66,147.96
+12/21/2021,P0026,10,Online,Cash,0.0%,Product26,Category04,No.,18,24.66,246.6
+2/14/2022,P0026,8,Online,Cash,0.0%,Product26,Category04,No.,18,24.66,197.28
+3/4/2022,P0026,13,Wholesaler,Online,0.0%,Product26,Category04,No.,18,24.66,320.58
+3/14/2022,P0026,13,Direct Sales,Online,0.0%,Product26,Category04,No.,18,24.66,320.58
+4/7/2022,P0026,7,Direct Sales,Online,0.0%,Product26,Category04,No.,18,24.66,172.62
+4/21/2022,P0026,14,Online,Online,0.0%,Product26,Category04,No.,18,24.66,345.24
+6/13/2022,P0026,6,Direct Sales,Cash,0.0%,Product26,Category04,No.,18,24.66,147.96
+7/26/2022,P0026,1,Online,Cash,0.0%,Product26,Category04,No.,18,24.66,24.66
+9/18/2022,P0026,14,Online,Cash,0.0%,Product26,Category04,No.,18,24.66,345.24
+9/21/2022,P0026,5,Direct Sales,Cash,0.0%,Product26,Category04,No.,18,24.66,123.3
+12/4/2022,P0026,10,Direct Sales,Cash,0.0%,Product26,Category04,No.,18,24.66,246.6
+7/23/2021,P0036,7,Wholesaler,Online,0.0%,Product36,Category04,Kg,90,96.3,674.1
+10/6/2021,P0036,12,Online,Online,0.0%,Product36,Category04,Kg,90,96.3,1155.6
+11/6/2021,P0036,10,Direct Sales,Online,0.0%,Product36,Category04,Kg,90,96.3,963.0
+12/24/2021,P0036,8,Wholesaler,Online,0.0%,Product36,Category04,Kg,90,96.3,770.4
+2/23/2022,P0036,8,Direct Sales,Online,0.0%,Product36,Category04,Kg,90,96.3,770.4
+9/27/2022,P0036,4,Direct Sales,Cash,0.0%,Product36,Category04,Kg,90,96.3,385.2
+10/16/2022,P0036,3,Online,Online,0.0%,Product36,Category04,Kg,90,96.3,288.9
+11/8/2022,P0036,11,Wholesaler,Cash,0.0%,Product36,Category04,Kg,90,96.3,1059.3
+11/23/2022,P0036,12,Online,Online,0.0%,Product36,Category04,Kg,90,96.3,1155.6
