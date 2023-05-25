@@ -9,28 +9,8 @@ data = pd.read_csv("merged_data.csv")
 
 # Afficher les données brutes
 st.header("Données brutes")
-st.write(data)
-
-# Résumé statistique des données
-st.header("Résumé statistique")
-st.write(data.describe())
-# Importer les bibliothèques nécessaires
-import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-# Charger les données
-@st.cache
-def load_data():
-    data = pd.read_csv('ventes.csv')
-    return data
-
-data = load_data()
-
-# Afficher les premières lignes des données
-st.subheader('Examiner les données')
 st.write(data.head())
+
 
 # Afficher des informations sur les données
 st.write('Informations sur les données')
@@ -45,6 +25,12 @@ st.pyplot()
 # Traiter les valeurs manquantes
 st.subheader('Traiter les valeurs manquantes')
 st.write(data.isnull().sum())
+
+# Résumé statistique des données
+st.header("Résumé statistique")
+st.write(data.describe())
+
+
 
 # Identifier les relations entre les variables
 st.subheader('Identifier les relations entre les variables')
