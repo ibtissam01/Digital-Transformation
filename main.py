@@ -1,42 +1,33 @@
 import streamlit as st
 import pandas as pd
-from fbprophet import Prophet
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-# Charger les données dans un DataFrame pandas
-df = pd.read_csv('merged_data.csv')
+# Charger les données
+data = pd.read_csv("merged_data.csv")
 
-# Convertir la colonne "DATE" au format "%Y-%m-%d"
-df['DATE'] = pd.to_datetime(df['DATE'], format='%d-%m-%Y').dt.strftime('%Y-%m-%d')
+# Afficher les données brutes
+st.header("Données brutes")
+st.write(data)
 
-# Créer un objet Prophet
-m = Prophet()
+# Résumé statistique des données
+st.header("Résumé statistique")
+st.write(data.describe())
 
-# Ajouter une saisonnalité hebdomadaire
-m.add_seasonality(name='weekly', period=7, fourier_order=3)
+# Histogramme des ventes
+st.header("Histogramme des ventes")
+plt.hist(data["revenue"])
+st.pyplot()
 
-# Renommer les colonnes pour correspondre à la syntaxe de Prophet
-df = df.rename(columns={'DATE': 'ds', 'revenue': 'y'})
+# Diagramme circulaire des catégories de produits
+st.header("Diagramme circulaire des catégories de produits")
+categories = data.groupby("CATEGORY")["revenue"].sum()
+plt.pie(categories, labels=categories.index)
+st.pyplot()
 
-# Entraîner le modèle
-m.fit(df)
-
-# Créer un DataFrame avec les dates futures
-future = m.make_future_dataframe(periods=30)
-
-# Faire des prévisions sur les dates futures
-forecast = m.predict(future)
-
-# Créer une application Streamlit
-st.title('Prévisions de revenusavec Prophet')
-
-# Afficher les prévisions
-st.subheader('Prévisions')
-st.write(forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].tail())
-
-# Afficher les graphiques
-st.subheader('Graphiques')
-fig1 = m.plot(forecast)
-st.pyplot(fig1)
-
-fig2 = m.plot_components(forecast)
-st.pyplot(fig2)
+# Matrice de corrélation
+st.header("Matrice de corrélation")
+corr = data.corr()
+sns.heatmap(corr, annot=True)
+st.pyplot()
