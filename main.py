@@ -77,9 +77,4 @@ categories = data.groupby("CATEGORY")["revenue"].sum()
 plt.pie(categories, labels=categories.index)
 st.pyplot()
 
-# Matrice de corrélation
-st.header("Matrice de corrélation")
-corr = data.corr()
-sns.heatmap(corr, annot=True)
-st.pyplot()
 
