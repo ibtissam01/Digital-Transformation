@@ -1,0 +1,6 @@
+altair
+pandas
+scikit-learn
+streamlit
+seaborn
+plotly.express
