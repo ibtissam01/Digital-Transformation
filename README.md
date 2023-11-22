@@ -12,12 +12,21 @@ La problématique principale abordée dans ce projet est la suivante : Comment u
 Les solutions mises en place dans ce projet sont les suivantes :
 
 1. Analyse des données avec Power BI : Utilisation de Power BI pour visualiser les données de vente, identifier les tendances, et prendre des décisions éclairées basées sur ces informations.
+   ![image](https://github.com/ibtissam01/Digital-Transformation/assets/89752387/0dbc9794-7a1d-4b0b-b268-8c7d419c1b1b)
 
-2. Cloud Microsoft Azure : Utilisation du cloud Microsoft Azure pour le stockage sécurisé des données et l'accès aux ressources informatiques à la demande.
 
-3. Machine Learning - Régression : Utilisation de techniques de machine learning, en particulier la régression, pour prédire les ventes futures en analysant les données historiques.
+3. Cloud Microsoft Azure : Utilisation du cloud Microsoft Azure pour le stockage sécurisé des données et l'accès aux ressources informatiques à la demande.
+   ![image](https://github.com/ibtissam01/Digital-Transformation/assets/89752387/765f65ba-d7f2-4339-8032-5305bc859fe3)
 
-4. Solution mobile avec Streamlit : Développement d'une application mobile conviviale à l'aide de Streamlit, permettant aux utilisateurs d'accéder facilement aux informations de vente et de stock depuis n'importe où.
+
+5. Machine Learning - Régression : Utilisation de techniques de machine learning, en particulier la régression, pour prédire les ventes futures en analysant les données historiques.
+   ![image](https://github.com/ibtissam01/Digital-Transformation/assets/89752387/670fa096-aabc-4e45-a096-52c07b9bc32f)
+
+
+6. Solution mobile avec Streamlit : Développement d'une application mobile conviviale à l'aide de Streamlit, permettant aux utilisateurs d'accéder facilement aux informations de vente et de stock depuis n'importe où.
+   ![image](https://github.com/ibtissam01/Digital-Transformation/assets/89752387/4acdf760-5051-426f-a8e9-506e26e13dfd)
+
+   [Streamlit App](ibtissam01-stocka-main-zty64w.streamlit.app)
 
 ## Accès à l'application
 Vous pouvez accéder à notre application via le lien suivant : [Streamlit App](ibtissam01-stocka-main-zty64w.streamlit.app)
